@@ -1,6 +1,5 @@
-package pl.coderslab;
+package pl.coderslab.main;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component

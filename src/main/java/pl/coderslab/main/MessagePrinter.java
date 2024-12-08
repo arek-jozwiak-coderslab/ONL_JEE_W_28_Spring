@@ -1,4 +1,4 @@
-package pl.coderslab;
+package pl.coderslab.main;
 
 public interface MessagePrinter {
     String printMessage();
